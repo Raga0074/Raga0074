@@ -8,7 +8,7 @@
       **`Wizard of OZ`**
 
 ## **About Me**
-<a href = "https://github.com/Raga0074"><img align="left" width ="150"  src="[https://tenor.com/view/bleach-gif-17990944]"></a>
+<a href = "https://github.com/Raga0074"><img  align= "left"  width = "150"  src="[https://tenor.com/view/bleach-gif-17990944]"></a>
 
 Wassup everyone! I am Harshal & I like coding and learning new technologies as I proceed with my mission.
 
