@@ -8,19 +8,19 @@
       **`Wizard of OZ`**
 
 ## **About Me**
-<a href = "https://github.com/Raga0074"><img align="left" width ="150px" height ="150px" src="[https://tenor.com/view/bleach-gif-17990944](https://tenor.com/view/bleach-gif-17990944)"></a>
+<a href = "https://github.com/Raga0074"><img align="left" width ="150"  src="[https://tenor.com/view/bleach-gif-17990944](https://tenor.com/view/bleach-gif-17990944)"></a>
 
 Wassup everyone! I am Harshal & I like coding and learning new technologies as I proceed with my mission.
 
 <br><br>
 
-##** Experience **###
+## **Experience**
 
--📚 Having completed my Bachelor in Computer Application, I possess the wand to many spells(programming languages😁).
-- 🔭 I’m currently working on my portfolio based on React.js and Varcel for deployment.
+-  📚 Having completed my Bachelor in Computer Application, I possess the wand to many spells(programming languages😁).
+-  🔭 I’m currently working on my portfolio based on React.js and Varcel for deployment.
 
-  ## ** Update **##
-    <a href = ><img align = "right" width = "150px" height = "150px" src=https://tenor.com/view/bleach-gif-17990944></a>
+  ## **Update**
+    <a href = ><img align = "right" width = "150" src=https://tenor.com/view/bleach-gif-17990944></a>
   Here I will be updating you about my ongoing progress to you guys🚀
     <br><br>
 - 🌱 I’m currently learning ...
