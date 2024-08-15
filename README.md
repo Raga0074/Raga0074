@@ -20,7 +20,7 @@ Wassup everyone! I am Harshal & I like coding and learning new technologies as I
 -  🔭 I’m currently working on my portfolio based on React.js and Varcel for deployment.
 
   ## **Update**
-    <a href = ><img align = "right" width = "150" src=https://tenor.com/view/bleach-gif-17990944></a>
+    <a href = ""><img align = "right" width = "150" src=https://tenor.com/view/bleach-gif-17990944></a>
   Here I will be updating you about my ongoing progress to you guys🚀
     <br><br>
 - 🌱 I’m currently learning ...
