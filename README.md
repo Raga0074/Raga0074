@@ -1,7 +1,10 @@
-## Hi there 👋
+  <div align = "center">
 
+  ![](https://typograssy.deno.dev/api?text=Harshal%20Mali&l0=fcfcfc&l1=ff0000&l2=e43a3a&l3=e05267&l4=db2424&bg=cda8b5&speed=190&comment=)
+  </div>
 
-**Raga0074/Raga0074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Hi there 👋
+  I am Harshal**
 
 Here are some ideas to get you started:
 
