@@ -37,6 +37,6 @@
 
 ## **Other**
 
-- 💬 Ask me about anything related about my interests I will be honoured to answer thy answer
-- 📫 How to reach me: Throght the Email would be more convinent
-- ⚡ Fun fact: Penguins Can Fly and I have comppleted Elden Ring
+- 💬 Ask me about anything related to my interests I will be honoured to answer thy answer
+- 📫 How to reach me: Throght the Email would be more convenient
+- ⚡ Fun fact: Penguins Can Fly and I have completed Elden Ring
