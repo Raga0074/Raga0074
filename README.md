@@ -30,7 +30,7 @@
   <a href = "https://github.com/Raga0074"><img align = "left" width = "250" src="https://media1.tenor.com/m/XUBpaZaAJ08AAAAC/yamamoto-yamamoto-shigekuni.gif"></a>
   <p align="right"><br>&ensp; Here I will be updating you about my ongoing progress to you guys🚀
   &ensp; <br> 🌱 I’m currently learning JavaScript frameworks and Web 3 technologies used in it.
-  &ensp; <br> 👯 I’m looking to collaborate on Web 3 technologies and For Portfolio ideas</p>
+  &ensp; <br> 👯 I’m looking to collaborate on Web 3 technologies and For Portfolio ideas.</p>
     
 <br><br>
 
